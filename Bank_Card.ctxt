@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bank_Card
+comment0.text=\n\ BankCard\ checks\ whether\ client_name\ is\ empty\ or\ not\ \n\ @author\ (Rodrik\ Shahi\ "AI2")\n\ @version\ (17.0.4.1)\n
+comment1.params=card_id\ balance_amount\ bank_account\ issuer_bank
+comment1.target=Bank_Card(int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ get$card_id()
+comment3.params=
+comment3.target=java.lang.String\ get$bank_account()
+comment4.params=
+comment4.target=java.lang.String\ get$issuer_bank()
+comment5.params=
+comment5.target=java.lang.String\ get$client_name()
+comment6.params=
+comment6.target=int\ get$balance_amount()
+comment7.params=client_name
+comment7.target=void\ set$client_name(java.lang.String)
+comment8.params=balance_amount
+comment8.target=void\ set$balance_amount(int)
+comment9.params=
+comment9.target=void\ display()
+numComments=10

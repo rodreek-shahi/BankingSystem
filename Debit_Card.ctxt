@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Debit_Card
+comment0.text=\n\ DebitCard\ allows\ to\ withdraw\ amount\ from\ bank\ account\n\ @author\ (Rodrik\ Shahi\ "AI2")\n\ @version\ (17.0.4.1)\n
+comment1.params=card_id\ balance_amount\ bank_account\ issuer_bank\ client_name\ pin_number
+comment1.target=Debit_Card(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ get$pin_number()
+comment2.text=Accessor\ method\ to\ get\ access\ to\ private\ variables\ *
+comment3.params=
+comment3.target=boolean\ get$withdrawal_status()
+comment4.params=
+comment4.target=int\ get$amount_to_withdraw()
+comment5.params=amount_to_withdraw
+comment5.target=void\ set$amount_to_withdraw(int)
+comment5.text=Mutator\ method\ for\ amount_to_withdraw\ *
+comment6.params=amount_to_withdraw\ date_of_withdrawal\ pin_number
+comment6.target=void\ with_draw(int,\ java.lang.String,\ int)
+comment7.params=
+comment7.target=void\ display()
+numComments=8
